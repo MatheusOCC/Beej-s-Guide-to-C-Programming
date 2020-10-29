@@ -10,3 +10,9 @@ The program shall output the result.
 
 */
 
+#include <stdio.h>
+
+int main (void)
+{
+    
+}
